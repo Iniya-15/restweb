@@ -269,6 +269,7 @@ contact.html
 
 </body>
 </html>
+```
 
 ## OUTPUT:
 
@@ -286,7 +287,9 @@ contact.html
 
 ![Screenshot 2025-05-13 101916](https://github.com/user-attachments/assets/5222728d-8830-450a-915a-086f98e993e8)
 
+
 ![Screenshot 2025-05-13 101945](https://github.com/user-attachments/assets/e97c74bc-1b2e-4d41-8009-1dcc180e175c)
+
 
 ![Screenshot 2025-05-13 102111](https://github.com/user-attachments/assets/47cef014-5219-46a1-bfdc-69fa589589eb)
 
