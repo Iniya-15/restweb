@@ -270,10 +270,25 @@ contact.html
 </body>
 </html>
 
-
 ## OUTPUT:
 
+![Screenshot 2025-05-13 100808](https://github.com/user-attachments/assets/8ca87a65-87c1-4450-9ade-b270484e7030)
 
+
+![Screenshot 2025-05-13 102004](https://github.com/user-attachments/assets/35863a01-a8a9-4d19-b5ef-8ca70ad0f3be)
+
+
+![Screenshot 2025-05-13 102022](https://github.com/user-attachments/assets/084ea032-c76c-4b52-9d4d-34b86b3e6dca)
+
+
+![Screenshot 2025-05-13 102034](https://github.com/user-attachments/assets/204b8336-63a3-449c-b330-49a97196baff)
+
+
+![Screenshot 2025-05-13 101916](https://github.com/user-attachments/assets/5222728d-8830-450a-915a-086f98e993e8)
+
+![Screenshot 2025-05-13 101945](https://github.com/user-attachments/assets/e97c74bc-1b2e-4d41-8009-1dcc180e175c)
+
+![Screenshot 2025-05-13 102111](https://github.com/user-attachments/assets/47cef014-5219-46a1-bfdc-69fa589589eb)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
